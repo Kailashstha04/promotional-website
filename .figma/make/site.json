@@ -1,0 +1,10 @@
+{
+  "description": "NExus offers interactive 360° 3D workplace safety training experiences, enhancing engagement and effectiveness in safety education for organizations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
